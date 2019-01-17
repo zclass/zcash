@@ -315,8 +315,8 @@ public:
         // nEquihashK = K;
         eh_epoch_1 = eh200_9;
         eh_epoch_2 = eh144_5;
-        eh_epoch_1_endblock = 30000;
-        eh_epoch_2_startblock = 14500;
+        eh_epoch_1_endblock = 12010;
+        eh_epoch_2_startblock = 12000;
 
         genesis = CreateGenesisBlock(
             1479443947,
